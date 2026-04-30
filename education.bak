@@ -60,7 +60,7 @@
 
       <article class="project reveal">
         <div class="project__thumb">
-          <img src="https://lh3.googleusercontent.com/d/1OwJPMtujXEBrv0LwVl0Bpet3Fq70Muwh" alt="River cleanup project" />
+          <img src="images/RiverCleanup.jpg" alt="River cleanup project" />
         </div>
         <div class="project__body">
           <p class="project__tag">Project</p>
